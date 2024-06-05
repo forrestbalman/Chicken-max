@@ -1,0 +1,6 @@
+1, footstep-1.wav;
+2, footstep-2.wav;
+3, footstep-3.wav;
+4, footstep-4.wav;
+5, footstep-5.wav;
+6, footstep-6.wav;

@@ -1,0 +1,8 @@
+1, cow-1.wav;
+2, cow-2.wav;
+3, duck-1.wav;
+4, duck-2.wav;
+5, horse-1.wav;
+6, horse-2.wav;
+7, sheep-1.wav;
+8, sheep-2.wav;

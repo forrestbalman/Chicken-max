@@ -1,0 +1,5 @@
+1, Rubber_half_0.wav;
+2, Rubber_half_-2.wav;
+3, Rubber_half_-4.wav;
+4, Rubber_half_-6.wav;
+5, Rubber_half_-8.wav;
